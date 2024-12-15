@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @STARFALL088
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning CPP,HTML,CSS,JS
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me git
 - 😄 Pronouns: he obviously
