@@ -2,9 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning CPP,HTML,CSS,JS
 - 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me git
 - 😄 Pronouns: he obviously
-- ⚡ Fun fact: lol
 
 <!---
 STARFALL088/STARFALL088 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
