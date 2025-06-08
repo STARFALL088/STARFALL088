@@ -20,7 +20,7 @@
 
 - 😄 Pronouns: **he/him**
 
-- 🚀 Fun fact: **I believe every problem has an elegant solution waiting to be discovered**
+- 🚀 Fun fact: **AI cannot take your job , if you don't have one **
 
 ### 🔗 Connect with me:
 <p align="left">
